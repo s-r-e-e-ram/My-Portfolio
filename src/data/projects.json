@@ -1,0 +1,26 @@
+[
+  {
+    "title": "FAKE CURRENCY DETECTOR",
+    "imageSrc": "projects/project01.jpeg",
+    "description": "Detecting counterfeit currency notes using image processing and deep learning techniques, specifically CNN (Convolutional Neural Network).",
+    "skills": ["MATLAB R 2022"],
+    "demo": "https://drive.google.com/file/d/1-_cSFaaqqQ0F_sq7g6u4QAcnpN0mEXeZ/view?usp=drive_link",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " REMOTE VILLAGE (E-LEARNING PORTAL)",
+    "imageSrc": "projects/project02.jpeg",
+    "description": "This platform is designed specifically for students in remote villages, enabling them to access digital learning content.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://remotevillage2023-25.web.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SAFE REACH CONTACT ACCESS PORTAL",
+    "imageSrc": "projects/project04.jpeg",
+    "description": "This is a project provide secure access to critical contact information from any device during emergency situations.",
+    "skills": ["React","Tailwind", "Express", "Node"],
+    "demo": "https://docs.google.com/presentation/d/1aG-teFqRERZbNLHcU5BPDf-RYXtaxJaT/edit?usp=drive_link&ouid=108184691416855121283&rtpof=true&sd=true",
+    "source": "https://www.github.com"
+  }
+]

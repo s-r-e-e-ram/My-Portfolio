@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Web Development Intern",
+    "organisation": "Future calls, Chennai",
+    "startDate": "March, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on Front-end Web Development",
+      "Worked with PHP, MySQL Database"
+    ],
+    "imageSrc": "history/fc.gif",
+    "link": "https://www.futurecalls.com"  
+  },
+  {
+    "role": "UI/UX & Graphic design Intern",
+    "organisation": "vebbox, Kumbakonam",
+    "startDate": "Jan, 2025",
+    "endDate": "Feb, 2025",
+    "experiences": [
+      "Developed UX/UI designs for multiple projects",
+      "Designed Instagram posters and marketing materials for branding"
+    ],
+    "imageSrc": "history/vebbox.jpg",
+    "link": "https://www.vebbox.com"  
+  }
+]
