@@ -35,6 +35,9 @@ export const Navbar = () => {
             <a href="#projects" className={styles.glowLink}>Projects</a>
           </li>
           <li>
+            <a href="#certifications" className={styles.glowLink}>Certifications</a>
+          </li>
+          <li>
             <a href="#contact" className={styles.glowLink}>Contact</a>
           </li>
         </ul>

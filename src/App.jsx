@@ -5,6 +5,8 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
+import Certificate from './components/Certificate';
+
 
 function App() {
   return (
@@ -14,9 +16,13 @@ function App() {
       <About />
       <Experience />
       <Projects />
+      <section id="certifications">
+  <Certificate />
+</section>
       <Contact />
     </div>
   );
+  
 }
 
 export default App;

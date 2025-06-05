@@ -17,19 +17,28 @@ export const Hero = () => {
           I'm a full-stack developer using React and NodeJS.
           Reach out if you'd like to learn more!
         </p>
-        <a href="#contact" className={styles.btn} onClick={scrollToFooter}>
-          Contact Me
-        </a>
-        <a href="https://drive.google.com/file/d/1pRP-DkwCVu5uxhbpiw0FxfFDEGJLdYjt/view?usp=drive_link" className={styles.btn2}>
-          Resume
-        </a>
-        
+
+        <div className={styles.buttonRow}>
+          <a href="#contact" className={styles.btn} onClick={scrollToFooter}>
+            Contact Me
+          </a>
+          <a
+            href="https://drive.google.com/file/d/1pRP-DkwCVu5uxhbpiw0FxfFDEGJLdYjt/view?usp=drive_link"
+            className={styles.btn2}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Resume
+          </a>
+        </div>
       </div>
+
       <img
         src={getImageUrl("hero/heroImage.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
+
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
