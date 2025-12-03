@@ -29,7 +29,7 @@ export const Navbar = () => {
             <a href="#about" className={styles.glowLink}>About</a>
           </li>
           <li>
-            <a href="#experience" className={styles.glowLink}>Experience</a>
+            <a href="#experience" className={styles.glowLink}>Skills & Experience</a>
           </li>
           <li>
             <a href="#projects" className={styles.glowLink}>Projects</a>

@@ -1,12 +1,13 @@
 [
   {
-    "role": "Web Development Intern",
+    "role": "Web Development & Data Science Intern",
     "organisation": "Future calls, Chennai",
     "startDate": "March, 2025",
-    "endDate": "Present",
+    "endDate": "May, 2025",
     "experiences": [
-      "Worked on Front-end Web Development",
-      "Worked with PHP, MySQL Database"
+      "Contributed to dynamic website modules using React and PHP",
+      "Validation and basic security checks to improve user input handling",
+      "Enhanced data analysis pipelines and improved data visualization dashboards"
     ],
     "imageSrc": "history/fc.gif",
     "link": "https://www.futurecalls.com"  
@@ -17,8 +18,9 @@
     "startDate": "Jan, 2025",
     "endDate": "Feb, 2025",
     "experiences": [
-      "Developed UX/UI designs for multiple projects",
-      "Designed Instagram posters and marketing materials for branding"
+      "Designed user interface layouts and wireframes",
+      "Created marketing assets and improved visual branding",
+      "Collaborated with developers to ensure design consistency across platforms"
     ],
     "imageSrc": "history/vebbox.jpg",
     "link": "https://www.vebbox.com"  

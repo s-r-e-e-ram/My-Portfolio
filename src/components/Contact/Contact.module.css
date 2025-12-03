@@ -3,7 +3,12 @@
 .container {
   color: var(--color-text);
   margin-top: 80px;
-  background: linear-gradient(90deg, #082853, #000000); /* dark blue -> gray -> black */
+  background: linear-gradient(
+    90deg,
+    var(--color-dark) 0%,
+    var(--color-bg) 50%,
+    #000000 100%
+  ); /* dark gray -> deep bg -> black */
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -12,6 +17,7 @@
   gap: 20px;
   flex-wrap: wrap;
 }
+
 
 /* TEXT SECTION */
 .text h2 {

@@ -1,10 +1,19 @@
 :root {
-  /* Colours */
-  --color-text: #fff;
-  --color-primary: #445cbc;
-  --color-secondary: #676f7d;
-  --color-dark: #0b2447;
-  --color-bg: #04152d;
+  /* Base Colors */
+  --color-bg: #0e0f11;        /* Deep dark background */
+  --color-dark: #1a1c1f;      /* Section dark gray */
+  --color-text: #ffffff;      /* Main text color */
+  --color-secondary: #b0b3b8; /* Muted light gray text */
+
+  /* Accent Colors */
+  --color-primary: #dae5e8;   /* Cyan-blue accent (buttons, highlights) */
+  --color-accent: #656d6b;    /* Teal/greenish accent for secondary elements */
+
+  /* Extra Shades */
+  --color-border: #2a2d32;    /* Borders, dividers */
+  --color-hover: #0099cc;     /* Hover effect (blue glow) */
+
+
 
   /* Fonts */
   --font-poppins: "poppins";

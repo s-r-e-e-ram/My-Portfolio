@@ -23,6 +23,14 @@
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
+      {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+    {
+    "title": "Python",
+    "imageSrc": "skills/py.png"
+  },
    {
     "title": "Adobe Ps",
     "imageSrc": "skills/ps.png"
